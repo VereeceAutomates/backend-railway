@@ -1,7 +1,7 @@
- """
-SureNaira — Central Configuration
-All bookmakers, markets, scraping settings, and arb rules live here.
-"""
+
+#SureNaira — Central Configuration
+#All bookmakers, markets, scraping settings, and arb rules live here.
+
 
 # ─── Bookmaker Registry ─────────────────────────────────────────────────────
 
